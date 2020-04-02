@@ -4,6 +4,7 @@
 .intro-content-info {
     font-size: 13px;
     line-height: 20px;
+    height: 20vh;
 }
 
 @media only screen and (max-width: 375px) {
