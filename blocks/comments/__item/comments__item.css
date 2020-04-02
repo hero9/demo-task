@@ -1,0 +1,5 @@
+.comments__item {
+    flex: 0 32%;
+    margin-right: 10px;
+    text-align: center;
+}

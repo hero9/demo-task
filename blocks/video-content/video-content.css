@@ -1,0 +1,16 @@
+@import url(__author/video-content__author.css);
+@import url(__duration/video-content__duration.css);
+@import url(__play/video-content__play.css);
+@import url(__title/video-content__title.css);
+
+.video-content {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}

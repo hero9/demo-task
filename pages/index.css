@@ -8,6 +8,14 @@
 @import url(../blocks/intro-content/intro-content.css);
 @import url(../blocks/intro-content-info/intro-content-info.css);
 @import url(../blocks/lead/lead.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/video-content/video-content.css);
+@import url(../blocks/comments/comments.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/footer/footer.css);
 
 * {
     box-sizing: border-box;
@@ -15,7 +23,7 @@
 
 .page {
     background-color: #2A2C2F;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', 'Arial', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #FFFFFF;
